@@ -11,10 +11,7 @@ class student{
          name = n;
          cout << "Roll is: " << roll<<endl;
          cout << "Name is: " << name<<endl;
-      }
-
-   
-      
+      }    
 
 };
 
